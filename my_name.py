@@ -1,1 +1,2 @@
-print("YUCONG NI")
+name = input("Enter your name: ")
+print(name)
