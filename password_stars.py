@@ -6,5 +6,6 @@ while len(password) < password_length:
 
 if len(password) > password_length:
     print(len(password) * '*')
+    print("Thank you")
 
 
